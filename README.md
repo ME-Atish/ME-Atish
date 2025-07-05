@@ -25,7 +25,7 @@ Here are some of my favorite repositories that showcase what I love to build:
 - [**Exp-CLI**](https://github.com/LittleOddBoy/exp-cli)  
   💵 A CLI tool to track your monthly/yearly finances and expenses. *(JavaScript, MIT License)*
 
--[**meat-hotel**](https://github.com/ME-Atish/meat-hotel)
+- [**meat-hotel**](https://github.com/ME-Atish/meat-hotel)
   A REST full API named "meat-hotel" for hotel management.
 
 ## 🌱 Currently Learning
